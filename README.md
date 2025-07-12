@@ -1,6 +1,8 @@
 # Proyek Portofolio Dasar dengan HTML
 
-Proyek ini adalah sebuah website portofolio statis yang dibangun sebagai bagian dari pembelajaran dasar-dasar HTML. Tujuannya adalah untuk mempraktikkan penggunaan tag HTML semantik dalam membuat struktur website multi-halaman yang terorganisir dengan baik.
+Proyek ini adalah sebuah website portofolio statis yang dibuat untuk menyelesaikan tantangan **[Basic HTML Website](https://roadmap.sh/projects/basic-html-website)** dari Roadmap.sh.
+
+Tujuannya adalah untuk mempraktikkan penggunaan tag HTML semantik dalam membuat struktur website multi-halaman yang terorganisir dengan baik.
 
 ## 🚀 Live Demo
 
